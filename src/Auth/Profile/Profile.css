@@ -1,0 +1,19 @@
+.authenticate{
+    margin-top:6%;
+    width: 50%;
+    margin-left:370px;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+.button{
+    background-color: rgb(255, 71, 117);
+    margin:auto;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.body{
+    background-image: linear-gradient(#033E3E,#3B9C9C);
+       height: 50vh;
+      
+   }

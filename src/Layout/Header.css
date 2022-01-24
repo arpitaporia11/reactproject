@@ -1,0 +1,24 @@
+
+.mylink{
+/* color:black !important; */
+background-color: #c62800;
+box-sizing: border-box;
+border-radius: 8px;
+box-shadow: 0 1px 6px rgba(0, 0, 0, 0.12), 0 1px 4px rgba(0, 0, 0, 0.24);
+color:rgb(0, 255, 255) !important;
+}
+.mylink:hover{
+    color:#800000 !important; 
+  }
+.nav{
+    color:#fffc47 !important;
+}
+.nav1{
+    background-color: rgb(255, 0, 64);
+    box-sizing: border-box;
+border-radius: 8px;
+box-shadow: 0 1px 6px rgba(0, 0, 0, 0.12), 0 1px 4px rgba(0, 0, 0, 0.24);
+color: white !important;
+font-weight: bold;
+text-transform: uppercase;
+}
